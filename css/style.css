@@ -1,0 +1,115 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    width: auto;
+    height: 850px;
+    background-image: url(/css/imagen/fondo.jpeg);
+}
+
+#container{
+   display: flex;
+   flex-direction: column;
+   justify-content: space-evenly;
+   align-items: center;
+   justify-content: center;
+   border: solid 5px;
+   width: 350px;
+   height: 450px;
+   border-radius: 15px;
+   opacity: 0.9;
+   background-color: grey;
+   
+}
+
+#containerus{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.usuario{
+    border-radius: 5px;
+    height: 40px;
+    width: auto;
+    border: none;
+}
+
+.usercss1{
+    display:none;
+    border-radius: 5px;
+    border: none;
+
+}
+
+#containeruser{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 200px;
+    height: 40px;
+    border-radius: 15px;
+    opacity: 0.9;
+    background-color: grey;
+    
+ }
+
+ .passMali{
+    display: none;
+    border-radius: 5px;
+ }
+
+
+ .passGera{
+    display: none;
+    border-radius: 5px;
+ }
+
+ .passMaui{
+    display: none;
+    border-radius: 5px;
+ }
+
+ .intera{
+    display: none;
+    border-radius: 5px;
+ }
+
+ .intera1{
+    display: none;
+    border-radius: 5px;
+ }
+
+ .intera2{
+    display: none;
+    border-radius: 5px;
+ }
+
+ .opciones1{
+    display: none;
+    border-radius: 5px;
+ }
+
+ .saldo1{
+    display: none;
+ }
+
+ .opciones2, .opciones3{
+    display: none;
+    border-radius: 5px;
+ }
+
+
+ .terminar{
+    display: none;
+    border-radius: 5px;
+ }
+
+ .terminar1, .terminar2{
+    display: none;
+    border-radius: 5px;
+ }
